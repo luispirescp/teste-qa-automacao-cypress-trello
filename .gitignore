@@ -1,5 +1,5 @@
 # Arquivos com credenciais ou chaves sensíveis
-config.js
+cypress.config.js
 .env
 
 # Diretórios com dados sensíveis
