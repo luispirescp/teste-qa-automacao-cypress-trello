@@ -1,0 +1,7 @@
+# Arquivos com credenciais ou chaves sensíveis
+config.js
+.env
+
+# Diretórios com dados sensíveis
+/credentials/
+/keys/
